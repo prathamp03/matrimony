@@ -1,0 +1,51 @@
+form{
+	width: 100%;
+}
+form input[type="text"]{
+	width: 43%;
+    padding: 27px 287px;
+    margin: 8px 468px;
+    outline: none;
+    border: none;
+    background: rgba(0,0,0,0.1);
+}
+form input[type="submit"]{
+	width: 122%;
+    padding: 24px 10px;
+    margin: 12px 469px;
+    outline: none;
+    border: none;
+    background: #e84393;
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
+}
+form input[type="submit"]:hover{
+	background: transparent;
+	border:1px solid grey;
+	color: black;
+}
+
+.frm-cont{
+    margin-left: 19px;
+    margin-right: -45px;
+    margin-top: 50px;
+    background-color: #fff; }
+
+ .form{
+
+    width: 48%;
+    margin: 89px 85px;
+ font-size: 1.5rem;
+}
+
+form input[type="submit"]:hover{
+	background: transparent;
+	border:1px solid grey;
+	color: black;
+}
+
+.compb{
+    
+    margin: 45px 23px;
+}

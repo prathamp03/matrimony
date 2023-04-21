@@ -1,0 +1,21 @@
+h1{
+	background-color: darkred;
+	color: whitesmoke;
+	margin-top: 25px;
+	border-radius: 25px;
+	box-shadow: whitesmoke;
+}
+.container{
+	
+	 margin-left: 50px;
+    margin-right: 50px;
+    margin-top: auto;
+    background-color:  #fff;
+    border: 2px solid black;
+    height: fit-content;
+}
+.cont2{
+	 margin-left: 270px;
+    
+    margin-top: 80px
+}
